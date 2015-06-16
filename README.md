@@ -62,3 +62,5 @@ let's see tileset one by one :
 * pitcher : lines 2, column 1-5; each pitcher shoot the bullet at the top of them.
 
 It's all, hope you'll create some.
+
+[A video showing an execution of this guide](www.thiolliere.org/ligo/demo_editor.avi)
