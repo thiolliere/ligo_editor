@@ -63,4 +63,4 @@ let's see tileset one by one :
 
 It's all, hope you'll create some.
 
-[A video showing an execution of this guide](www.thiolliere.org/ligo/demo_editor.avi)
+A video showing an execution of this guide at www.thiolliere.org/ligo/demo_editor.avi
